@@ -1,5 +1,11 @@
 # simulação distibuição a posteriori
 
+ideia principal do projeto é perceber como a média e a variancia das distribuições a priori e a verrossimilhança influencia a posteriori.
+
+proximas modificações:
+
+opção de usar dados gerados para verificar como o tamanho de amostra influencia a distribuição a posteriori já que a combinação linear que descreve a media da distribuição depende de $\bar{x}$ .
+
 status do projeto : em andamento...
 
 Seja X | $\theta$ ~ N( $\theta$ , $\sigma^2$  ) $\rightarrow$ Verossimilhança,
