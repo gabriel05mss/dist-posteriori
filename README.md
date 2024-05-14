@@ -39,7 +39,7 @@ $$
 
 
 $$
-\rightarrow  \frac{\frac{\sigma^2 + \tau^2}{\sigma^2 + \tau^2} \times [\tau^2(x-\theta)^2 + \sigma^2(\theta + \mu)^2]}{\sigma^2\tau^2}
+\rightarrow  \frac{\frac{\sigma^2 + \tau^2}{\sigma^2 + \tau^2} \times [\tau^2(x-\theta)^2 + \sigma^2(\theta - \mu)^2]}{\sigma^2\tau^2}
 $$
 
 Simplificação 
